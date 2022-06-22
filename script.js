@@ -1,0 +1,12 @@
+document.write("ZURI task: Introduction to Javascript");
+document.write("<br>");
+document.write("First Name: Stephen");
+document.write("<br>");
+document.write("Middle Name: Ayomide");
+document.write("<br>");
+document.write("Last Name: Popoola");
+document.write("<br>");
+document.write("Height: 6.0ft");
+document.write("<br>");
+document.write("Country: Nigeria");
+document.write("<br>");
